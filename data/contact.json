@@ -1,0 +1,34 @@
+{
+  "email": "fatihakmalh@gmail.com",
+  "phone": "+62 822 8236 6859",
+  "whatsapp": "6282282366859",
+  "location": "Jakarta, Indonesia",
+  "hours": "10:00 AM - 06:00 PM",
+  "socials": [
+    {
+      "name": "GitHub",
+      "icon": "ph-github-logo",
+      "url": "https://github.com/FatihAkmalH"
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "ph-linkedin-logo",
+      "url": "https://linkedin.com/in/fatihakmal"
+    },
+    {
+      "name": "Instagram",
+      "icon": "ph-instagram-logo",
+      "url": "https://instagram.com/fatihibatullah/"
+    },
+    {
+      "name": "Threads",
+      "icon": "ph-threads-logo",
+      "url": "https://threads.com/@fatihibatullah"
+    },
+    {
+      "name": "Dribbble",
+      "icon": "ph-dribbble-logo",
+      "url": "#"
+    }
+  ]
+}

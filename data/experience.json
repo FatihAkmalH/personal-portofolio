@@ -1,0 +1,134 @@
+{
+  "id": {
+    "education": [
+      {
+        "period": "Sep 2019 - Agt 2023",
+        "role": "S1 Teknologi Informasi (IPK: 3.96)",
+        "institution": "Universitas Bina Sarana Informatika - DKI Jakarta, Indonesia",
+        "description": [
+          "Fokus pada Algoritma, Pengembangan Web & Manajemen Jaringan.",
+          "Mata kuliah relevan: Statistik, Pengembangan Web, Sistem Basis Data, Manajemen Jaringan (Jaringan Komputer & Routing dan Switching)."
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "period": "Full-Time (April 2024 - Now) | Freelance (Oct 2023 - Apr 2024)",
+        "role": "Program Development Associate / Research & Development TV",
+        "institution": "PT. MDTV Media Televisi",
+        "description": [
+          "Mengembangkan dan mengevaluasi konsep program televisi berdasarkan analisis performa, metrik rating dan share, serta tren industri.",
+          "Mengoperasikan Nielsen Arianna untuk memantau performa program harian dan melakukan analisis kompetitor di berbagai jam tayang dan genre.",
+          "Menganalisis performa program televisi hingga tingkat menit, melakukan analisis performa mingguan dan bulanan, serta melacak tren performa program jangka panjang untuk mendukung keputusan penjadwalan dan strategi konten.",
+          "Menyusun laporan evaluasi program televisi mingguan dengan mengintegrasikan data kuantitatif dan wawasan kualitatif.",
+          "Melakukan pratinjau (preview) dan ulasan (review) program internal serta siaran kompetitor untuk memberikan rekomendasi peningkatan konten.",
+          "Mengolah, menganalisis, dan mempresentasikan data riset audiens dari survei dan Focus Group Discussion (FGD) untuk mendukung evaluasi konten.",
+          "Melakukan analisis konten dan performa menggunakan Excel Pivot Table untuk mengidentifikasi pola menonton, tren, dan kesenjangan performa.",
+          "Mengotomatisasi alur kerja pemrosesan data dan pelaporan menggunakan makro Excel dasar, meningkatkan efisiensi dan mengurangi pekerjaan manual.",
+          "Menyesuaikan, memelihara, dan menstandarisasi templat pelaporan serta makro Excel untuk meningkatkan konsistensi analisis data dan akurasi dokumentasi.",
+          "Berkolaborasi dengan departemen Programming, Produksi, dan pemangku kepentingan terkait untuk mendukung pengambilan keputusan berbasis data.",
+          "Bertindak sebagai supervisor dan mentor bagi mahasiswa magang, memberikan panduan tugas, penjadwalan, dan umpan balik performa."
+        ]
+      },
+      {
+        "period": "Agt 2022 - Des 2022",
+        "role": "Magang Research & Development (Magang Kampus Merdeka)",
+        "institution": "NET Mediatama Televisi",
+        "description": [
+          "Melakukan pemantauan menit demi menit terhadap program televisi yang sedang tayang untuk mendukung pelacakan performa dan evaluasi konten.",
+          "Berpartisipasi dalam survei audiens lapangan di berbagai lokasi Jabodetabek untuk mengamati kesiapan dan perilaku penonton selama transisi dari siaran televisi analog ke digital.",
+          "Melakukan pratinjau (preview) program lebih dari 10 episode per judul untuk mendukung rekomendasi penjadwalan dan penilaian konten.",
+          "Mengelola dan memelihara metadata program televisi untuk konten lama dan baru guna mendukung kebutuhan tata kelola pustaka konten dan kearsipan.",
+          "Memberikan rekomendasi konten dan wawasan dasar untuk mendukung pengembangan program televisi dan keputusan editorial."
+        ]
+      }
+    ],
+    "organization": [
+      {
+        "period": "Oktober 2019 - September 2020",
+        "role": "Social Media Admin",
+        "institution": "Volunteer F1 - Kampus UBSI Jatiwaringin",
+        "description": [
+          "Bertanggung jawab dalam membuat konten untuk postingan Instagram",
+          "Menggalang Dana untuk korban banjir",
+          "Memperkenalkan kampus ke Siswa SMA/SMK yang akan lulus sekolah"
+        ]
+      },
+      {
+        "period": "Desember 2021",
+        "role": "Campaign Volunteer",
+        "institution": "harisenin.com",
+        "description": [
+          "Belajar tentang harisenin.com serta memberkenalkan apa itu harisenin.com",
+          "Bermain game dan membuat postingan Instagram sesuai campaign yang dijalankan"
+        ]
+      }
+    ]
+  },
+  "en": {
+    "education": [
+      {
+        "period": "Sep 2019 - Aug 2023",
+        "role": "Graduate in Information Technology (GPA: 3.96)",
+        "institution": "Universitas Bina Sarana Informatika - DKI Jakarta, Indonesia",
+        "description": [
+          "Focus on Algorithm, Web Development & Network Management.",
+          "Relevant coursework: Statistics, Web Development, Database Systems, Network Management (Computer Network & Routing and Switching)."
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "period": "Full-Time (May 2024 - Now) | Freelance (Oct 2023 - Apr 2024)",
+        "role": "Program Development Associate / Research & Development TV",
+        "institution": "PT. MDTV Media Televisi",
+        "description": [
+          "Developed and evaluated television program concepts based on performance analysis, rating and share metrics, and industry trends.",
+          "Utilized Nielsen Arianna to monitor daily program performance and conduct competitor analysis across time slots and genres.",
+          "Analyzed television program performance at minute-level granularity, conducted weekly and monthly performance analysis, and tracked long-term program performance trends to support scheduling and content strategy decisions.",
+          "Prepared weekly television program evaluation reports by integrating quantitative data with qualitative insights.",
+          "Performed program previews and reviews of internal shows and competitor broadcasts to provide content improvement recommendations.",
+          "Processed, analyzed, and presented audience research data from surveys and Focus Group Discussions (FGD) to support content evaluation.",
+          "Conducted content and performance analysis using Excel Pivot Tables to identify viewing patterns, trends, and performance gaps.",
+          "Automated data processing and reporting workflows using basic Excel macros, improving efficiency and reducing manual work.",
+          "Customized, maintained, and standardized Excel reporting templates and macros to enhance data analysis consistency and documentation accuracy.",
+          "Collaborated with Programming, Production, and related stakeholders to support data-driven decision-making.",
+          "Acted as supervisor and user mentor for interns, providing task guidance, scheduling, and performance feedback."
+        ]
+      },
+      {
+        "period": "Aug 2022 - Dec 2022",
+        "role": "Intern Research & Development (Magang Kampus Merdeka)",
+        "institution": "NET Mediatama Televisi",
+        "description": [
+          "Conducted minute-by-minute monitoring of active television programs to support performance tracking and content evaluation.",
+          "Participated in field audience surveys across multiple Jabodetabek locations to observe viewer readiness and behavior during the transition from analog to digital television broadcasting.",
+          "Performed program previews of 10+ episodes per title to support scheduling recommendations and content assessment.",
+          "Managed and maintained television program metadata for both legacy and new content to support content library organization and archival needs.",
+          "Provided content recommendations and basic insights to support television program development and editorial decisions."
+        ]
+      }
+    ],
+    "organization": [
+      {
+        "period": "October 2019 - September 2020",
+        "role": "Social Media Admin",
+        "institution": "Volunteer F1 - UBSI Jatiwaringin Campus",
+        "description": [
+          "Created content for Instagram posts",
+          "Organized fundraising efforts for flood victims",
+          "Introduced the campus to graduating high school and vocational school students"
+        ]
+      },
+      {
+        "period": "December 2021",
+        "role": "Campaign Volunteer",
+        "institution": "harisenin.com",
+        "description": [
+          "Learned about harisenin.com and introduced its platform to others",
+          "Participated in games and created Instagram posts as part of the campaign"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "HTML",
+    "type": "phosphor",
+    "icon": "ph-file-html"
+  },
+  {
+    "name": "CSS",
+    "type": "phosphor",
+    "icon": "ph-file-css"
+  },
+  {
+    "name": "Javascript Dasar",
+    "type": "phosphor",
+    "icon": "ph-file-code"
+  },
+  {
+    "name": "User Research & Survey",
+    "type": "phosphor",
+    "icon": "ph-users-three"
+  },
+  {
+    "name": "Microsoft Excel",
+    "type": "phosphor",
+    "icon": "ph-table"
+  },
+  {
+    "name": "Macro Excel",
+    "type": "phosphor",
+    "icon": "ph-table"
+  },
+  {
+    "name": "Content Curration",
+    "type": "phosphor",
+    "icon": "ph-book-open-text"
+  },
+  {
+    "name": "Social Media Management",
+    "type": "phosphor",
+    "icon": "ph-instagram-logo"
+  },
+  {
+    "name": "Data Visualization",
+    "type": "phosphor",
+    "icon": "ph-chart-bar"
+  },
+  {
+    "name": "Data Entry",
+    "type": "phosphor",
+    "icon": "ph-table"
+  },
+  {
+    "name": "Creative & Critical Thinking",
+    "type": "phosphor",
+    "icon": "ph-lightbulb"
+  },
+  {
+    "name": "Content Development",
+    "type": "phosphor",
+    "icon": "ph-puzzle-piece"
+  }
+]

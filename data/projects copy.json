@@ -1,0 +1,242 @@
+[
+  {
+    "id": "project-1",
+    "title": "Split Bill ",
+    "description": {
+      "id": "Ini adalah website yang dibuat untuk Split Bill hasil belanja kita dengan rekan kerja, website ini gratis dan dapat digunakan oleh siapapun.",
+      "en": "This is a web application designed to help users easily split shopping bills or expenses with colleagues and friends. It is a free tool that is accessible to everyone."
+    },
+    "date": "Oktober 2024",
+    "technologies": ["HTML", "Bootstrap", "Javascript"],
+    "category": "Front End",
+    "image_thumbnail": "../assets/images/splitbill.webp",
+    "image_modal": "../assets/images/splitbill.webp",
+    "link": "https://marisplitbill.netlify.app",
+    "github_link": "https://github.com/username/splitbill" 
+  },
+  {
+    "id": "project-2",
+    "title": "Color Palette Generator",
+    "description": {
+      "id": "Ini adalah website yang dibuat untuk memudahkan pengguna dalam memilih warna baik untuk membuat presentasi dll, website ini gratis dan dapat digunakan oleh siapapun.",
+      "en": "This website is designed to assist users in selecting aesthetic color palettes for presentations, designs, and other creative needs. It is completely free and open for public use."
+    },
+    "date": "Oktober 2024",
+    "technologies": ["HTML", "CSS", "Bootstrap", "Vanilla JS"],
+    "category": "Front End",
+    "image_thumbnail": "../assets/images/color-pallete.webp",
+    "image_modal": "../assets/images/color-pallete.webp",
+    "link": "https://pewarna.netlify.app",
+    "github_link": "Unavailable"
+  },
+  {
+    "id": "project-3",
+    "title": "Instagram Follower & Following Checker",
+    "description": {
+      "id": "Ini adalah website yang dibuat untuk mengecek akun Instagram yang tidak Follow Akun kita, website ini gratis dan dapat digunakan oleh siapapun.",
+      "en": "This web application allows users to check which Instagram accounts are not following them back. It is a free and user-friendly tool available to anyone."
+    },
+    "date": "Oktober 2024",
+    "technologies": ["HTML", "Bootstrap", "Javascript"],
+    "category": "Front End",
+    "image_thumbnail": "../assets/images/folcheck.webp",
+    "image_modal": "../assets/images/folcheck.webp",
+    "link": "https://follback-checker.netlify.app/",
+    "github_link": "Unavailable"
+  },
+  {
+    "id": "project-4",
+    "title": "WordCloud Generator",
+    "description": {
+      "id": "Ini adalah project WordCloud yang dibuat untuk memudahkan hasil analisis pekerjaan, website ini gratis dan dapat digunakan oleh siapapun.",
+      "en": "This WordCloud Generator project is built to facilitate data visualization and content analysis for professional work. It provides an easy, free-to-use platform for everyone."
+    },
+    "date": "November 2024",
+    "technologies": ["HTML", "Bootstrap", "Javascript"],
+    "category": "Front End",
+    "image_thumbnail": "../assets/images/wordcloud.webp",
+    "image_modal": "../assets/images/wordcloud.webp",
+    "link": "https://fah-wordcloud.netlify.app/",
+    "github_link": "Unavailable"
+  },
+  {
+    "id": "project-5",
+    "title": "Glassmorphism Portofolio Website",
+    "description": {
+      "id": "Ini adalah personal website portofolio saya yang mana saya gunakan untuk memberitahukan profil saya, website ini saya buat dengan style glassmorphism dimana design ini seperti kartu yang berbentuk transparan.",
+      "en": "This is my personal portfolio website created to showcase my professional profile and past works. It features a modern 'glassmorphism' design style, utilizing transparent, frosted-glass UI elements for an elegant aesthetic."
+    },
+    "date": "Mei 2021",
+    "technologies": ["HTML", "CSS", "Javascript", "Locale Storage"],
+    "category": "Front End",
+    "image_thumbnail": "../assets/images/glassporto.webp",
+    "image_modal": "../assets/images/glassporto.webp",
+    "link": "Not Active Again",
+    "github_link": "Private Repository"
+  },
+  {
+    "id": "project-6",
+    "title": "AI Cost Hub",
+    "description": {
+      "id": "AI Cost Hub adalah proyek sumber terbuka independen dan tidak berafiliasi, didukung, atau bermitra dengan OpenAI, Anthropic, Google, DeepSeek, Meta, Mistral AI, atau penyedia model AI lainnya. Harga model, tarif tokenisasi, batas jendela konteks, dan diskon dapat berubah sewaktu-waktu oleh masing-masing penyedia. Meskipun kami berusaha menjaga keakuratan data, perhitungan yang disediakan oleh hub ini berfungsi sebagai perkiraan dan pedoman untuk tujuan perencanaan.",
+      "en": "AI Cost Hub is an independent open-source project and is not affiliated, endorsed, or partnered with OpenAI, Anthropic, Google, DeepSeek, Meta, Mistral AI, or any other AI model providers. Model pricing, tokenization rates, context window limits, and discounts (such as prompt caching or batch processing) are subject to change by respective providers at any time. While we strive to maintain accurate data, calculations provided by this hub serve as estimates and guidelines for planning purposes."
+    },
+    "date": "Juli 2026 | Vibe Coding",
+    "technologies": ["HTML", "CSS Variables", "Bootstrap", "Vanilla JS (ES6+)", "Chart.js", "JSON Data Engine", "SweetAlert2", "Exchange Rate API"],
+    "category": "Front End",
+    "image_thumbnail": "../assets/images/AICOSTHUB.webp",
+    "image_modal": "../assets/images/AICOSTHUB.webp",
+    "link": "https://aicosthub.netlify.app/",
+    "github_link": "Private Repository"
+  },
+  {
+    "id": "project-7",
+    "title": "Highlight Competitor",
+    "description": {
+      "id": "Ini adalah project web app Highlight Competitor untuk memudahkan pencatatan dan rekapitulasi berbagai tayangan televisi, mulai dari program baru, film (movie), series, hingga jadwal tayangan sports. Dengan aplikasi ini, Anda dapat mengorganisir jadwal siaran dengan lebih terstruktur dan efisien dalam satu dashboard, sehingga membantu menghemat waktu serta mengurangi penggunaan kertas yang berlebihan karena semuanya tersaji secara digital.",
+      "en": "Highlight Competitor is a web application designed to streamline the recording and summarization of various television broadcasts, ranging from new programs and movies to series and sports schedules. This app helps you organize broadcast schedules systematically and efficiently within a single dashboard, saving time and reducing excessive paper usage by managing everything digitally."
+    },
+    "date": "Juli 2026",
+    "technologies": ["HTML", "CSS", "Bootstrap", "Vanilla JS", "SweetAlert2", "CRUD", "Firebase Realtime Database", "Firebase Hosting"],
+    "category": "Front End",
+    "image_thumbnail": "../assets/images/highlightcompetitor.webp",
+    "image_modal": "../assets/images/highlightcompetitor.webp",
+    "link": "Internal Project Only",
+    "github_link": "Private Repository"
+  },
+  {
+    "id": "project-8",
+    "title": "Kidsplay Learning Game",
+    "description": {
+      "id": "Ini adalah project web app KidsPlay, sebuah platform edukasi interaktif yang dirancang untuk anak-anak agar bisa belajar sambil bermain dengan seru. Melalui berbagai permainan edukatif seperti tangkap ikan untuk berhitung, tebak hewan, hingga latihan menulis, project ini membantu mengasah kreativitas dan kemampuan kognitif anak secara digital dan menyenangkan, sehingga proses belajar menjadi lebih menarik tanpa perlu media cetak yang membosankan.",
+      "en": "KidsPlay is an interactive educational web app platform designed for children to learn while having fun. Through various educational games such as catching fish for counting, guessing animals, and writing exercises, this project helps sharpen children's creativity and cognitive skills digitally. It makes the learning process highly engaging, eliminating the need for tedious printed materials."
+    },
+    "date": "Juli 2026 | Vibe Coding",
+    "technologies": ["HTML", "CSS", "Bootstrap", "Vanilla JS", "SweetAlert2", "JSON"],
+    "category": "Front End",
+    "image_thumbnail": "../assets/images/kidsplay.webp",
+    "image_modal": "../assets/images/kidsplay.webp",
+    "link": "https://kidsplay-app.netlify.app/",
+    "github_link": "Private Repository"
+  },
+  {
+    "id": "project-9",
+    "title": "Platescape Cashier (POS)",
+    "description": {
+      "id": "Ini adalah project web app Platescape, sebuah sistem Point of Sale (POS) berbasis web yang efisien untuk pengelolaan pesanan restoran. Proyek ini unik karena mengintegrasikan Google Drive API sebagai database JSON, sehingga memungkinkan penyimpanan dan sinkronisasi data transaksi secara cloud yang aman dan terpusat. Dengan fitur manajemen produk, riwayat pesanan, serta tampilan antarmuka yang intuitif, aplikasi ini membantu pemilik usaha mengelola bisnis kuliner secara digital dan paperless.",
+      "en": "Platescape is an efficient web-based Point of Sale (POS) system built for restaurant order management. This project uniquely integrates the Google Drive API as a JSON database, enabling secure, centralized cloud storage and data synchronization. Featuring product management, order history, and an intuitive UI, this application empowers business owners to run their culinary operations digitally and go completely paperless."
+    },
+    "date": "Juli 2026",
+    "technologies": ["HTML", "CSS Variables", "Bootstrap", "Vanilla JS (ES6+)", "JSON", "API Key Integration", "Google Drive API"],
+    "category": "Full Stack | Vibe Coding",
+    "image_thumbnail": "../assets/images/platescape.webp",
+    "image_modal": "../assets/images/platescape.webp",
+    "link": "Demo Not Available",
+    "github_link": "https://github.com/FatihAkmalH/platescape_cashier.git"
+  },
+  {
+    "id": "project-10",
+    "title": "Youtube Channel Scrapper",
+    "description": {
+      "id": "Ini adalah project web app YouTube Scraper Khusus Metadata untuk memudahkan proses penarikan data dan informasi metadata dari suatu channel YouTube secara otomatis hanya dengan memasukkan API Key serta Channel Handle. Project ini sangat membantu untuk analisis konten, riset, maupun pengelolaan data channel secara efisien dan cepat tanpa perlu melakukan penyalinan data secara manual.",
+      "en": "This is a dedicated YouTube Metadata Scraper web app designed to automate the extraction of metadata from any YouTube channel by simply inputting an API Key and a Channel Handle. This project is highly beneficial for content analysis, research, and channel data management, enabling fast and efficient workflows without the need for manual data entry."
+    },
+    "date": "Agustus 2026 | Vibe Coding",
+    "technologies": ["HTML", "CSS Variables", "Bootstrap", "Vanilla JS (ES6+)", "JSON Data Engine", "API Key Integration", "Youtube Data API"],
+    "category": "Front End | Vibe Coding",
+    "image_thumbnail": "../assets/images/ytscrap.webp",
+    "image_modal": "../assets/images/ytscrap.webp",
+    "link": "https://ytchscrapper.netlify.app/",
+    "github_link": "https://github.com/FatihAkmalH/youtubeScrapper.git"
+  },
+  {
+    "id": "project-11",
+    "title": "Web Converter",
+    "description": {
+      "id": "Ini adalah project web app Web Converter untuk memudahkan proses konversi data dari suatu file ke file lainnya. Project ini sangat membantu untuk analisis konten, riset, maupun pengelolaan data channel secara efisien dan cepat tanpa perlu melakukan penyalinan data secara manual.",
+      "en": "This is a dedicated Web Converter web app designed to automate the extraction of metadata from any YouTube channel by simply inputting an API Key and a Channel Handle. This project is highly beneficial for content analysis, research, and channel data management, enabling fast and efficient workflows without the need for manual data entry."
+    },
+    "date": "Agustus 2026 | Vibe Coding",
+    "technologies": ["HTML", "CSS Variables", "Bootstrap", "Vanilla JS (ES6+)", "JSON Data Engine", "API Key Integration", "Youtube Data API"],
+    "category": "Front End | Vibe Coding",
+    "image_thumbnail": "../assets/images/convertWEB.webp",
+    "image_modal": "../assets/images/convertWEB.webp",
+    "link": "https://converteruniversal.netlify.app/",
+    "github_link": "https://github.com/FatihAkmalH/universal_converter.git"
+  },
+  {
+    "id": "project-12",
+    "title": "Excel Macro VBA",
+    "description": {
+      "id": "Ini adalah project Excel Macro, yaitu sebuah tools berbasis Excel yang dibangun menggunakan bahasa pemrograman VBA (Visual Basic for Applications) yang terintegrasi dengan Microsoft Excel. Tools ini dirancang khusus untuk mengotomatisasi pekerjaan repetitif dan kompleks, sehingga dapat meningkatkan efisiensi, mengurangi kesalahan manual, dan menghemat waktu kerja secara signifikan.",
+      "en": "This is an Excel Macro project, a tools built using VBA (Visual Basic for Applications) integrated with Microsoft Excel. This project is specifically designed to automate repetitive and complex tasks, thereby increasing efficiency, reducing manual errors, and significantly saving work time."
+    },
+    "date": "Oktober 2024",
+    "technologies": ["VBA"],
+    "category": "Excel Automation",
+    "image_thumbnail": "../assets/images/macro.webp",
+    "image_modal": "../assets/images/macro.webp",
+    "link": "Internal Project Only",
+    "github_link": "Private Repository"
+  },
+  {
+    "id": "project-13",
+    "title": "Powershell Code",
+    "description": {
+      "id": "Kode powershell untuk mengubah metadata pada microsoft office & file explorer",
+      "en": "PowerShell code to modify metadata in Microsoft Office and File Explorer."
+    },
+    "date": "Agustus 2026",
+    "technologies": ["Powershell Code"],
+    "category": "Function",
+    "image_thumbnail": "../assets/images/psCode.webp",
+    "image_modal": "../assets/images/psCode.webp",
+    "link": "Demo Not Available",
+    "github_link": "Private Repository"
+  },
+  {
+    "id": "project-14",
+    "title": "Database Access",
+    "description": {
+      "id": "ini adalah project berbasis desktop yang dibangun menggunakan bahasa pemrograman VBA (Visual Basic for Applications) yang terintegrasi dengan Microsoft Access. Project ini dirancang khusus untuk mengotomatisasi pekerjaan repetitif dan kompleks, sehingga dapat meningkatkan efisiensi, mengurangi kesalahan manual, dan menghemat waktu kerja secara signifikan.",
+      "en": "This is a desktop-based project built using VBA (Visual Basic for Applications) integrated with Microsoft Access. This project is specifically designed to automate repetitive and complex tasks, thereby increasing efficiency, reducing manual errors, and significantly saving work time."
+    },
+    "date": "Oktober 2025",
+    "technologies": ["HTML", "CSS Variables", "Bootstrap", "Vanilla JS (ES6+)", "MS Access"],
+    "category": "Full Stack",
+    "image_thumbnail": "../assets/images/DB Access.webp",
+    "image_modal": "../assets/images/DB Access.webp",
+    "link": "Demo Not Available",
+    "github_link": "Private Repository"
+  },
+  {
+    "id": "project-15",
+    "title": "Data Visualization",
+    "description": {
+      "id": "ini adalah project berbasis desktop yang dibangun menggunakan bahasa pemrograman VBA (Visual Basic for Applications) yang terintegrasi dengan Microsoft Access. Project ini dirancang khusus untuk mengotomatisasi pekerjaan repetitif dan kompleks, sehingga dapat meningkatkan efisiensi, mengurangi kesalahan manual, dan menghemat waktu kerja secara signifikan.",
+      "en": "This is a desktop-based project built using VBA (Visual Basic for Applications) integrated with Microsoft Access. This project is specifically designed to automate repetitive and complex tasks, thereby increasing efficiency, reducing manual errors, and significantly saving work time."
+    },
+    "date": "2026",
+    "technologies": ["Excel", "Macro Excel", "Third Party Software"],
+    "category": "Full Stack",
+    "image_thumbnail": "../assets/images/DB Access.webp",
+    "image_modal": "../assets/images/DB Access.webp",
+    "link": "Demo Not Available",
+    "github_link": "Private Repository"
+  },
+  {
+    "id": "project-16",
+    "title": "ATS CV / Resume Builder",
+    "description": {
+      "id": "ini adalah project berbasis desktop yang dibangun menggunakan bahasa pemrograman VBA (Visual Basic for Applications) yang terintegrasi dengan Microsoft Access. Project ini dirancang khusus untuk mengotomatisasi pekerjaan repetitif dan kompleks, sehingga dapat meningkatkan efisiensi, mengurangi kesalahan manual, dan menghemat waktu kerja secara signifikan.",
+      "en": "This is a desktop-based project built using VBA (Visual Basic for Applications) integrated with Microsoft Access. This project is specifically designed to automate repetitive and complex tasks, thereby increasing efficiency, reducing manual errors, and significantly saving work time."
+    },
+    "date": "September 2026",
+    "technologies": ["HTML", "CSS Variables", "Bootstrap", "Vanilla JS (ES6+)", "Google Drive API"],
+    "category": "Front End | Vibe Coding",
+    "image_thumbnail": "../assets/images/cv-builder.webp",
+    "image_modal": "../assets/images/cv-builder.webp",
+    "link": "Demo Not Available",
+    "github_link": "Private Repository"
+  }
+]

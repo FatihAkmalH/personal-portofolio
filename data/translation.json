@@ -1,0 +1,90 @@
+{  
+  "id": {  
+    "nav_home": "Beranda",
+    "nav_about": "Tentang",  
+    "nav_experience": "Experience",  
+    "nav_project": "Project",  
+    "nav_contact": "Contact",  
+      
+    "hero_greeting": "Halo, Saya",  
+    "hero_role": "Data Analyst & AI Enthusiast",  
+    "hero_btn_primary": "Lihat Portofolio",  
+    "hero_btn_secondary": "Unduh CV",
+    "btn_projects": "Lihat Karya Saya",
+    "btn_contact": "Hubungi Saya",
+    "stat_experience": "Tahun Pengalaman",
+    "stat_projects": "Proyek",
+      
+    "about_title": "Tentang Saya",
+    "about_desc": "Profesional dengan pengalaman 3+ tahun di industri televisi, saya terbiasa mengolah data menjadi insight untuk mengevaluasi performa program sekaligus mendukung pengembangan program televisi sebagai bagian dari Research & Development (R&D). Saya juga melakukan otomatisasi proses kerja melalui Excel Macro, pengembangan aplikasi web, serta eksplorasi AI. Saya menikmati proses mencari cara yang lebih sederhana dan efisien dalam menyelesaikan pekerjaan, baik melalui data, otomatisasi dan teknologi. Di waktu luang, saya senang mencoba berbagai tools dan teknologi baru, terutama hal-hal yang bisa membantu saya bekerja lebih efektif dan mengembangkan kemampuan di bidang yang saya minati.",
+    "about_skills": "Skills",
+    "tab_experience": "Pengalaman",
+    "tab_education": "Pendidikan",
+    "tab_organization": "Organisasi",
+
+    "section_project_title": "Pekerjaan Terbaru",  
+    "btn_view_project": "Lihat Project",  
+      
+    "modal_created": "Dibuat",  
+    "modal_tech": "Teknologi Digunakan",  
+    "modal_type": "Jenis",  
+    "modal_link": "View Code",
+    "btn_live_demo": "Lihat Demo",
+    "btn_live_demo_unavailable": "Demo Tidak Tersedia",
+
+    "contact_title_1": "Mari Terhubung",
+    "contact_title_2": "Dengan Saya",
+    "contact_desc": "Saya selalu terbuka untuk mendiskusikan peluang baru, proyek kolaborasi, atau sekadar bertukar pikiran. Silakan hubungi saya melalui salah satu platform di bawah ini.",
+    "contact_label_location": "Lokasi",
+    "contact_label_email": "Kirim Email Kesini",
+    "contact_label_phone": "Telepon / WhatsApp",
+    "contact_label_hours": "Jam Kerja",
+    "contact_cta_title": "Tertarik Untuk Berkolaborasi?",
+    "contact_cta_desc": "Tekan tombol di bawah untuk langsung mengirimkan email kepada saya.",
+    "contact_cta_btn": "Kirim Email Sekarang"
+  },  
+  "en": {  
+    "nav_home": "Home",
+    "nav_about": "About",  
+    "nav_experience": "Experience",  
+    "nav_project": "Projects",  
+    "nav_contact": "Contact",  
+      
+    "hero_greeting": "Hello, I am",  
+    "hero_role": "Data Analyst & AI Enthusiast",  
+    "hero_btn_primary": "View Portfolio",  
+    "hero_btn_secondary": "Download CV",
+    "btn_projects": "View My Work",
+    "btn_contact": "Contact Me",
+    "stat_experience": "Years of Experience",
+    "stat_projects": "Projects",
+      
+    "about_title": "About Me",
+    "about_desc": "With over three years of experience in the television industry, I specialize in turning data into insights that help evaluate program performance and support television program development within a Research & Development (R&D) environment. I also have experience streamlining workflows through Excel Macros, web application development, and exploring AI. I enjoy finding simpler and more efficient ways to get things done by combining data, automation, and technology. In my spare time, I like experimenting with new tools and technologies, especially those that help me work more effectively and build skills in areas I’m interested in.",
+    "about_skills": "Skills",
+    "tab_experience": "Experience",
+    "tab_education": "Education",
+    "tab_organization": "Organization",
+
+    "section_project_title": "Recent Work",  
+    "btn_view_project": "View Project",  
+      
+    "modal_created": "Created",  
+    "modal_tech": "Tech Stack",  
+    "modal_type": "Type",  
+    "modal_link": "View Code",
+    "btn_live_demo": "Live Demo",
+    "btn_live_demo_unavailable": "Demo Unavailable",
+
+    "contact_title_1": "Let's Connect",
+    "contact_title_2": "With Me",
+    "contact_desc": "I am always open to discussing new opportunities, collaborative projects, or simply exchanging ideas. Feel free to reach out to me through any of the platforms below.",
+    "contact_label_location": "Location",
+    "contact_label_email": "You Can Email Here",
+    "contact_label_phone": "Call / WhatsApp",
+    "contact_label_hours": "Working Hours",
+    "contact_cta_title": "Interested in Collaborating?",
+    "contact_cta_desc": "Click the button below to send me an email directly.",
+    "contact_cta_btn": "Send Email Now"
+  }  
+}

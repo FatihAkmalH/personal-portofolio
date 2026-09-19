@@ -1,0 +1,242 @@
+[
+  {
+    "id": "project-1",
+    "title": "Split Bill ",
+    "description": {
+      "id": "Website praktis untuk membagi tagihan belanja atau pengeluaran bersama rekan kerja dan teman dengan mudah dan cepat.",
+      "en": "A simple web app for splitting shopping bills and shared expenses with colleagues and friends quickly and easily."
+    },
+    "date": "Oktober 2024",
+    "technologies": ["HTML", "Bootstrap", "Javascript"],
+    "category": "Front End",
+    "image_thumbnail": "../assets/images/splitbill.webp",
+    "image_modal": "../assets/images/splitbill.webp",
+    "link": "https://marisplitbill.netlify.app",
+    "github_link": "https://github.com/username/splitbill" 
+  },
+  {
+    "id": "project-2",
+    "title": "Color Palette Generator",
+    "description": {
+      "id": "Generator warna praktis untuk menemukan dan membuat kombinasi palet warna yang menarik untuk desain, presentasi, dan kebutuhan kreatif lainnya.",
+      "en": "A practical color palette generator for creating attractive color combinations for designs, presentations, and other creative projects."
+    },
+    "date": "Oktober 2024",
+    "technologies": ["HTML", "CSS", "Bootstrap", "Vanilla JS"],
+    "category": "Front End",
+    "image_thumbnail": "../assets/images/color-pallete.webp",
+    "image_modal": "../assets/images/color-pallete.webp",
+    "link": "https://pewarna.netlify.app",
+    "github_link": "Unavailable"
+  },
+  {
+    "id": "project-3",
+    "title": "Instagram Follower & Following Checker",
+    "description": {
+      "id": "Tools sederhana untuk membantu mengecek akun Instagram yang tidak mengikuti Anda kembali dengan cepat dan praktis.",
+      "en": "A simple tool that helps you quickly identify Instagram accounts that do not follow you back."
+    },
+    "date": "Oktober 2024",
+    "technologies": ["HTML", "Bootstrap", "Javascript"],
+    "category": "Front End",
+    "image_thumbnail": "../assets/images/folcheck.webp",
+    "image_modal": "../assets/images/folcheck.webp",
+    "link": "https://follback-checker.netlify.app/",
+    "github_link": "Unavailable"
+  },
+  {
+    "id": "project-4",
+    "title": "WordCloud Generator",
+    "description": {
+      "id": "Visualisasikan kata dan data menjadi word cloud yang menarik untuk membantu menemukan pola dan insight dari sebuah konten.",
+      "en": "Turn words and data into engaging word clouds to help reveal patterns and insights from your content."
+    },
+    "date": "November 2024",
+    "technologies": ["HTML", "Bootstrap", "Javascript"],
+    "category": "Front End",
+    "image_thumbnail": "../assets/images/wordcloud.webp",
+    "image_modal": "../assets/images/wordcloud.webp",
+    "link": "https://fah-wordcloud.netlify.app/",
+    "github_link": "Unavailable"
+  },
+  {
+    "id": "project-5",
+    "title": "Glassmorphism Portofolio Website",
+    "description": {
+      "id": "Website portofolio personal dengan desain glassmorphism yang modern untuk menampilkan profil, karya, dan pengalaman secara elegan.",
+      "en": "A modern personal portfolio website featuring a glassmorphism design to showcase profile, projects, and experience in an elegant way."
+    },
+    "date": "Mei 2021",
+    "technologies": ["HTML", "CSS", "Javascript", "Locale Storage"],
+    "category": "Front End",
+    "image_thumbnail": "../assets/images/glassporto.webp",
+    "image_modal": "../assets/images/glassporto.webp",
+    "link": "Not Active Again",
+    "github_link": "Private Repository"
+  },
+  {
+    "id": "project-6",
+    "title": "AI Cost Hub",
+    "description": {
+      "id": "Platform untuk membantu membandingkan biaya penggunaan berbagai model AI melalui data harga, token, context window, dan estimasi biaya dalam satu tampilan.",
+      "en": "A platform for comparing AI model costs through pricing, token usage, context windows, and estimated expenses in one place."
+    },
+    "date": "Juli 2026 | Vibe Coding",
+    "technologies": ["HTML", "CSS Variables", "Bootstrap", "Vanilla JS (ES6+)", "Chart.js", "JSON Data Engine", "SweetAlert2", "Exchange Rate API"],
+    "category": "Front End",
+    "image_thumbnail": "../assets/images/AICOSTHUB.webp",
+    "image_modal": "../assets/images/AICOSTHUB.webp",
+    "link": "https://aicosthub.netlify.app/",
+    "github_link": "Private Repository"
+  },
+  {
+    "id": "project-7",
+    "title": "Highlight Competitor",
+    "description": {
+      "id": "Dashboard digital untuk mencatat, mengelola, dan merekap berbagai tayangan televisi seperti program, film, series, dan sports secara lebih terstruktur.",
+      "en": "A digital dashboard for recording, managing, and summarizing TV programs, movies, series, and sports schedules in a structured workflow."
+    },
+    "date": "Juli 2026",
+    "technologies": ["HTML", "CSS", "Bootstrap", "Vanilla JS", "SweetAlert2", "CRUD", "Firebase Realtime Database", "Firebase Hosting"],
+    "category": "Front End",
+    "image_thumbnail": "../assets/images/highlightcompetitor.webp",
+    "image_modal": "../assets/images/highlightcompetitor.webp",
+    "link": "Internal Project Only",
+    "github_link": "Private Repository"
+  },
+  {
+    "id": "project-8",
+    "title": "Kidsplay Learning Game",
+    "description": {
+      "id": "Platform belajar interaktif untuk anak yang menggabungkan permainan edukatif dengan aktivitas menyenangkan untuk melatih kemampuan dasar dan kreativitas.",
+      "en": "An interactive learning platform that combines educational games and fun activities to help children develop essential skills and creativity."
+    },
+    "date": "Juli 2026 | Vibe Coding",
+    "technologies": ["HTML", "CSS", "Bootstrap", "Vanilla JS", "SweetAlert2", "JSON"],
+    "category": "Front End",
+    "image_thumbnail": "../assets/images/kidsplay.webp",
+    "image_modal": "../assets/images/kidsplay.webp",
+    "link": "https://kidsplay-app.netlify.app/",
+    "github_link": "Private Repository"
+  },
+  {
+    "id": "project-9",
+    "title": "Platescape Cashier (POS)",
+    "description": {
+      "id": "Sistem kasir berbasis web untuk membantu bisnis restoran mengelola produk, pesanan, dan riwayat transaksi secara digital dalam satu dashboard.",
+      "en": "A web-based POS system that helps restaurants manage products, orders, and transaction history digitally from a single dashboard."
+    },
+    "date": "Juli 2026",
+    "technologies": ["HTML", "CSS Variables", "Bootstrap", "Vanilla JS (ES6+)", "JSON", "API Key Integration", "Google Drive API"],
+    "category": "Full Stack | Vibe Coding",
+    "image_thumbnail": "../assets/images/platescape.webp",
+    "image_modal": "../assets/images/platescape.webp",
+    "link": "Demo Not Available",
+    "github_link": "https://github.com/FatihAkmalH/platescape_cashier.git"
+  },
+  {
+    "id": "project-10",
+    "title": "Youtube Channel Scrapper",
+    "description": {
+      "id": "Tools untuk mengambil dan mengolah metadata channel YouTube secara otomatis menggunakan API Key dan Channel Handle, cocok untuk riset dan analisis konten.",
+      "en": "A tool for automatically extracting and processing YouTube channel metadata using an API Key and Channel Handle for content research and analysis."
+    },
+    "date": "Agustus 2026 | Vibe Coding",
+    "technologies": ["HTML", "CSS Variables", "Bootstrap", "Vanilla JS (ES6+)", "JSON Data Engine", "API Key Integration", "Youtube Data API"],
+    "category": "Front End | Vibe Coding",
+    "image_thumbnail": "../assets/images/ytscrap.webp",
+    "image_modal": "../assets/images/ytscrap.webp",
+    "link": "https://ytchscrapper.netlify.app/",
+    "github_link": "https://github.com/FatihAkmalH/youtubeScrapper.git"
+  },
+  {
+    "id": "project-11",
+    "title": "Web Converter",
+    "description": {
+      "id": "Tools serbaguna untuk mengonversi berbagai jenis file dengan proses yang praktis, cepat, dan mudah digunakan langsung melalui browser.",
+      "en": "A versatile web tool for converting different file formats with a simple, fast, and convenient browser-based workflow."
+    },
+    "date": "Agustus 2026 | Vibe Coding",
+    "technologies": ["HTML", "CSS Variables", "Bootstrap", "Vanilla JS (ES6+)", "JSON Data Engine", "API Key Integration", "Youtube Data API"],
+    "category": "Front End | Vibe Coding",
+    "image_thumbnail": "../assets/images/convertWEB.webp",
+    "image_modal": "../assets/images/convertWEB.webp",
+    "link": "https://converteruniversal.netlify.app/",
+    "github_link": "https://github.com/FatihAkmalH/universal_converter.git"
+  },
+  {
+    "id": "project-12",
+    "title": "Excel Macro VBA",
+    "description": {
+      "id": "Tools berbasis Excel dan VBA untuk mengotomatisasi pekerjaan berulang, mempercepat proses kerja, dan mengurangi kesalahan manual.",
+      "en": "An Excel and VBA-based tool designed to automate repetitive tasks, streamline workflows, and reduce manual errors."
+    },
+    "date": "Oktober 2024",
+    "technologies": ["VBA"],
+    "category": "Excel Automation",
+    "image_thumbnail": "../assets/images/macro.webp",
+    "image_modal": "../assets/images/macro.webp",
+    "link": "Internal Project Only",
+    "github_link": "Private Repository"
+  },
+  {
+    "id": "project-13",
+    "title": "Powershell Code",
+    "description": {
+      "id": "Kumpulan kode PowerShell untuk membantu mengubah dan mengelola metadata pada file Microsoft Office dan File Explorer secara lebih praktis.",
+      "en": "PowerShell scripts designed to simplify the modification and management of metadata in Microsoft Office files and File Explorer."
+    },
+    "date": "Agustus 2026",
+    "technologies": ["Powershell Code"],
+    "category": "Function",
+    "image_thumbnail": "../assets/images/psCode.webp",
+    "image_modal": "../assets/images/psCode.webp",
+    "link": "Demo Not Available",
+    "github_link": "Private Repository"
+  },
+  {
+    "id": "project-14",
+    "title": "Database Access",
+    "description": {
+      "id": "Aplikasi desktop berbasis VBA dan Microsoft Access untuk mengelola data serta mengotomatisasi proses kerja agar lebih terstruktur dan efisien.",
+      "en": "A desktop application built with VBA and Microsoft Access to manage data and automate workflows for a more structured and efficient process."
+    },
+    "date": "Oktober 2025",
+    "technologies": ["HTML", "CSS Variables", "Bootstrap", "Vanilla JS (ES6+)", "MS Access"],
+    "category": "Full Stack",
+    "image_thumbnail": "../assets/images/DB Access.webp",
+    "image_modal": "../assets/images/DB Access.webp",
+    "link": "Demo Not Available",
+    "github_link": "Private Repository"
+  },
+  {
+    "id": "project-15",
+    "title": "Data Visualization",
+    "description": {
+      "id": "Project visualisasi data yang mengubah data mentah menjadi informasi visual yang lebih mudah dibaca, dipahami, dan dianalisis.",
+      "en": "A data visualization project that transforms raw data into clear and engaging visuals for easier understanding and analysis."
+    },
+    "date": "2026",
+    "technologies": ["Excel", "Macro Excel", "Third Party Software"],
+    "category": "Full Stack",
+    "image_thumbnail": "../assets/images/DB Access.webp",
+    "image_modal": "../assets/images/DB Access.webp",
+    "link": "Demo Not Available",
+    "github_link": "Private Repository"
+  },
+  {
+    "id": "project-16",
+    "title": "ATS CV / Resume Builder",
+    "description": {
+      "id": "CV builder berbasis web untuk membuat resume profesional yang terstruktur dan ramah ATS, dengan proses pembuatan CV yang praktis dan modern.",
+      "en": "A web-based CV builder for creating structured, professional, and ATS-friendly resumes through a simple and modern workflow."
+    },
+    "date": "September 2026",
+    "technologies": ["HTML", "CSS Variables", "Bootstrap", "Vanilla JS (ES6+)", "Google Drive API"],
+    "category": "Front End | Vibe Coding",
+    "image_thumbnail": "../assets/images/cv-builder.webp",
+    "image_modal": "../assets/images/cv-builder.webp",
+    "link": "Demo Not Available",
+    "github_link": "Private Repository"
+  }
+]

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portofolio Fatih Akmal - Data Analyst & AI Enthusiast. Berpengalaman dalam analisis data, otomatisasi alur kerja, dan web development.">
+    <meta name="keywords" content="Fatih Akmal, Data Analyst, AI Enthusiast, Portofolio, Web Developer, Indonesia">
+    <meta name="author" content="Fatih Akmal">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph / Facebook / LinkedIn -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://fatihakmal.com/"> <!-- ganti domainnya -->
+    <meta property="og:title" content="Fatih Akmal - Data Analyst & AI Enthusiast">
+    <meta property="og:description" content="Lihat portofolio, pengalaman, dan proyek terbaru dari Fatih Akmal.">
+    <meta property="og:image" content="https://fatihakmal.com/assets/images/hero-photo.webp"> <!-- Ganti URL agar mengarah ke foto Anda -->
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://fatihakmal.com/">
+    <meta property="twitter:title" content="Fatih Akmal - Data Analyst & AI Enthusiast">
+    <meta property="twitter:description" content="Lihat portofolio, pengalaman, dan proyek terbaru dari Fatih Akmal.">
+    <meta property="twitter:image" content="https://fatihakmal.com/assets/images/hero-photo.webp">
+    <link rel="shortcut icon" href="assets/images/logo.webp" type="image/x-icon">
+    <title>Fatih Akmal | Personal Portfolio</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Cantarell:ital,wght@0,400;0,700;1,400;1,700&family=Vujahday+Script&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    
+    <!-- GSAP untuk Transisi Halus -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+</head>
+<body>
+
+    <div class="background-glow">
+        <div class="glow-orb glow-orb-1"></div>
+        <div class="glow-orb glow-orb-2"></div>
+    </div>
+
+    <!-- NAVBAR -->
+    <header class="main-header glass-panel-nav">
+        <div class="header-container">
+            <div class="logo brand-font">Fatih Akmal</div>
+            <nav class="nav-links">
+                <a href="#home" class="nav-link active" data-i18n="nav_home">Beranda</a>
+                <a href="#about" class="nav-link" data-i18n="nav_about">Tentang & Pengalaman</a>
+                <a href="#projects" class="nav-link" data-i18n="nav_project">Project</a>
+                <a href="#contact" class="nav-link" data-i18n="nav_contact">Contact</a>
+            </nav>
+            <div class="nav-actions">
+                <button id="theme-toggle" class="icon-btn" aria-label="Toggle Theme">🌙</button>
+                <div class="lang-switch">
+                    <button id="lang-toggle" class="lang-btn" aria-label="Toggle Language">
+                        <img id="lang-icon" src="assets/images/lang-id.webp" alt="ID" width="24" height="24">
+                    </button>
+                </div>
+                <!-- Pastikan ID ini ada -->
+                <button id="hamburger-btn" class="hamburger-btn" aria-label="Menu">
+                    <i class="ph ph-list"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main id="app-container">
+        <!-- SECTION 1: HERO / HOME -->
+        <section id="home" class="spa-section active">
+            <div class="hero-container">
+                <div class="hero-content">
+                    <p class="hero-greeting" data-i18n="hero_greeting" style="font-size: 1.5rem; margin-bottom: 5px;">Halo, Saya</p>
+                    <h1 class="hero-title">FATIH AKMAL</h1>
+                    <p class="hero-subtitle" data-i18n="hero_role" style="font-weight: 600; color: var(--accent-primary);">Data Analyst & AI Enthusiast</p>
+                    
+                    <div style="display: flex; gap: 15px; justify-content: start; margin-top: 30px;">
+                        <a href="#projects" class="btn-cta" data-i18n="hero_btn_primary">Lihat Portofolio</a>
+                        <a href="assets/CV_FATIH AKMAL HIBATULLAH.pdf" class="btn-outline-cta" data-i18n="hero_btn_secondary">Unduh CV</a>
+                    </div>
+                </div>
+                
+                <div class="hero-visual">
+                    <div class="tilted-image-wrapper">
+                        <div class="tilted-image-inner glass-panel">
+                            <img src="assets/images/hero-photo.webp" alt="Hero Visual" loading="lazy">
+                        </div>
+                    </div>
+                    <div class="sphere sphere-1"></div>
+                    <div class="sphere sphere-2"></div>
+                    <div class="sphere sphere-3"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 2: ABOUT & EXPERIENCE -->
+        <section id="about" class="spa-section">
+            <div class="container merged-section">
+                
+                <!-- Kiri: Foto & Skills -->
+                <div class="merged-left">
+                    <div class="image-wrapper glass-panel">
+                        <img src="assets/images/hero-photo.webp" alt="Fatih Akmal" loading="lazy">
+                    </div>
+                    
+                    <div class="skills-container">
+                        <h3 class="sub-title" data-i18n="about_skills">Skills</h3>
+                        <div id="skills-container" class="skills-badges">
+                            <!-- Data Skills akan disuntikkan dari JS -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Kanan: Teks dan Timeline -->
+                <div class="merged-right">
+                    <h2 class="section-title text-left" data-i18n="about_title">Tentang Saya</h2>
+                    <p class="about-desc" data-i18n="about_desc">
+                        Saya seorang Analisis Data dengan pengalaman di industri televisi. 
+                        Saya memiliki ketertarikan dalam mengolah data menjadi insight, mengembangkan solusi otomatisasi, 
+                        serta membangun aplikasi web yang dapat menyederhanakan pekerjaan dan meningkatkan efisiensi.
+                    </p>
+
+                    <div class="tabs-container left-aligned">
+                        <button class="tab-btn active" data-target="experience" data-i18n="tab_experience">Pengalaman</button>
+                        <button class="tab-btn" data-target="education" data-i18n="tab_education">Pendidikan</button>
+                        <button class="tab-btn" data-target="organization" data-i18n="tab_organization">Organisasi</button>
+                    </div>
+
+                    <div id="timeline-vertical" class="timeline-vertical">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 3: PROJECT PORTFOLIO (BENTO GRID) -->
+        <section id="projects" class="spa-section">
+            <div class="container">
+                <!-- <div class="section-header text-left" style="margin-bottom: 40px;">
+                    <h2 class="section-title" data-i18n="section_project_title" style="margin-bottom: 10px; text-align: left;">Pekerjaan Terbaru</h2>
+                    <p class="about-desc" data-i18n="btn_projects" style="text-align: left; color: var(--accent-primary); font-weight: bold;">Lihat Karya Saya</p>
+                </div> -->
+                
+                <div id="bento-portfolio" class="bento-grid">
+                    <!-- Cards akan dirender di sini -->
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 4: CONTACT PAGE (NO FORM) -->
+        <section id="contact" class="spa-section">
+            <div class="container contact-container">
+                
+                <!-- Top Header: Title & Socials -->
+                <div class="contact-header glass-panel">
+                    <div class="ch-left">
+                        <h2 class="contact-title">
+                            <span data-i18n="contact_title_1">Mari Terhubung</span><br>
+                            <span class="highlight" data-i18n="contact_title_2">Dengan Saya</span>
+                        </h2>
+                    </div>
+                    <div class="ch-right">
+                        <p class="contact-desc" data-i18n="contact_desc">Saya selalu terbuka untuk mendiskusikan peluang baru, proyek kolaborasi, atau sekadar bertukar pikiran. Silakan hubungi saya melalui salah satu platform di bawah ini.</p>
+                        <div id="contact-socials" class="contact-socials">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Middle: 4 Info Cards -->
+                <div id="contact-info-grid" class="contact-grid">
+                </div>
+
+                <!-- Bottom: CTA Banner -->
+                <div class="contact-cta glass-panel bento-border-anim">
+                    <div class="cta-content">
+                        <h3 class="cta-title" data-i18n="contact_cta_title">Tertarik Untuk Berkolaborasi?</h3>
+                        <p class="cta-desc" data-i18n="contact_cta_desc">Tekan tombol di bawah untuk langsung mengirimkan email kepada saya.</p>
+                        <a href="mailto:fatihakmalh@gmail.com" class="btn-cta cta-large">
+                            <span data-i18n="contact_cta_btn">Kirim Email Sekarang</span> <i class="ph ph-arrow-up-right" style="margin-left: 8px;"></i>
+                        </a>
+                    </div>
+                </div>
+                
+            </div>
+        </section>
+
+        <!-- Section #projects dan #contact nanti akan ditambahkan di sini -->
+
+
+        <!-- ========================================== -->
+        <!-- PROJECT MODAL OVERLAY (PHASE 8)            -->
+        <!-- ========================================== -->
+        <div id="project-modal" class="modal-overlay">
+            <div class="modal-card glass-panel">
+                <!-- Tombol Tutup (X) -->
+                <button id="modal-close" class="modal-close-btn" aria-label="Close Modal">
+                    <i class="ph ph-x"></i>
+                </button>
+                
+                <!-- Kiri: Gambar Project (Efek pop-out) -->
+                <div class="modal-thumbnail">
+                    <img id="modal-img" src="" alt="Project Image">
+                </div>
+                
+                <!-- Kanan: Konten -->
+                <div class="modal-right">
+                    <h1 id="modal-title">Judul Project</h1>
+                    
+                    <div class="modal-tech-stack">
+                        <i class="ph ph-code"></i> <span id="modal-tech">Tech Stack</span>
+                    </div>
+                    
+                    <div class="modal-separator"></div>
+                    
+                    <p id="modal-desc" class="modal-desc">Deskripsi proyek akan muncul di sini...</p>
+                    
+                    <!-- Kiri Bawah: Tanggal Rilis Raksasa -->
+                    <div class="modal-date">
+                        <h5 id="modal-date-year">2026</h5>
+                        <h6 id="modal-date-month">JULY</h6>
+                    </div>
+                    
+                    <!-- Kanan Bawah: Floating Action Buttons (FAB) -->
+                    <div class="modal-actions">
+                        <a href="#" id="modal-link-github" target="_blank" class="modal-fab github-fab" title="View Code">
+                            <i class="ph ph-github-logo"></i>
+                        </a>
+                        <a href="#" id="modal-link-live" target="_blank" class="modal-fab" title="Live Demo">
+                            <i class="ph ph-globe"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </main>
+
+    <!-- Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <script src="js/feather.js"></script>
+    <script type="module" src="js/main.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            feather.replace(); // Merender tag <i> menjadi SVG
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+- `[/]` Step 1: Create SPA Router (`js/router.js`)
+- `[ ]` Step 2: Extract Hero Section to `js/pages/home.js`
+- `[ ]` Step 3: Extract About Section to `js/pages/about.js` (including experience and skills logic)
+- `[ ]` Step 4: Update `index.html` (add Nav links, empty main content area)
+- `[ ]` Step 5: Update `js/main.js` (remove old logic, initialize router)
+- `[ ]` Step 6: Verify SPA routing, theme, and language behavior
