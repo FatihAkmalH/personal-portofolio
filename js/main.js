@@ -126,6 +126,7 @@ function initRouter() {
             return;
         }
 
+        // Update status aktif di Navbar
         document.querySelectorAll('.nav-link').forEach(link => {
             if (link.getAttribute('href') === hash) link.classList.add('active');
             else link.classList.remove('active');
@@ -135,18 +136,33 @@ function initRouter() {
         if (activeSection === targetSection) return;
 
         if (activeSection) {
+            // Animasi Keluar: Halaman lama memudar dan naik ke atas sedikit (Natural Exit)
             gsap.to(activeSection, {
-                opacity: 0, y: 20, duration: 0.3, 
+                opacity: 0, 
+                y: -30, 
+                duration: 0.35, 
+                ease: "power2.inOut", 
                 onComplete: () => {
                     activeSection.classList.remove('active');
                     targetSection.classList.add('active');
-                    window.scrollTo(0, 0); 
-                    gsap.fromTo(targetSection, { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.4 });
+                    
+                    // Reset posisi scroll ke atas secara instan saat layar kosong
+                    window.scrollTo({ top: 0, behavior: 'instant' }); 
+                    
+                    // Animasi Masuk: Halaman baru muncul dari bawah dengan perlambatan halus (Soft Landing)
+                    gsap.fromTo(targetSection, 
+                        { opacity: 0, y: 40 }, 
+                        { opacity: 1, y: 0, duration: 0.6, ease: "power3.out" }
+                    );
                 }
             });
         } else {
+            // Animasi saat website pertama kali dimuat (Refresh)
             targetSection.classList.add('active');
-            gsap.fromTo(targetSection, { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.5 });
+            gsap.fromTo(targetSection, 
+                { opacity: 0, y: 30 }, 
+                { opacity: 1, y: 0, duration: 0.8, ease: "power3.out", delay: 0.1 }
+            );
         }
     };
 
@@ -241,6 +257,8 @@ async function loadSkillsData() {
     const container = document.getElementById('skills-container');
     
     if (skillsData && container) {
+        skillsData.sort((a, b) => b.skill_id - a.skill_id);
+        
         container.innerHTML = ''; 
         skillsData.forEach(skill => {
             const skillHTML = `

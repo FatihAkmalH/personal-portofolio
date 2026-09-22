@@ -1,60 +1,72 @@
 [
   {
+    "skill_id": 1,
     "name": "HTML",
     "type": "phosphor",
     "icon": "ph-file-html"
   },
   {
+    "skill_id": 2,
     "name": "CSS",
     "type": "phosphor",
     "icon": "ph-file-css"
   },
   {
+    "skill_id": 3,
     "name": "Javascript Dasar",
     "type": "phosphor",
     "icon": "ph-file-code"
   },
   {
+    "skill_id": 4,
     "name": "User Research & Survey",
     "type": "phosphor",
     "icon": "ph-users-three"
   },
   {
+    "skill_id": 5,
     "name": "Microsoft Excel",
     "type": "phosphor",
     "icon": "ph-table"
   },
   {
+    "skill_id": 10,
     "name": "Macro Excel",
     "type": "phosphor",
     "icon": "ph-table"
   },
   {
+    "skill_id": 6,
     "name": "Content Curration",
     "type": "phosphor",
     "icon": "ph-book-open-text"
   },
   {
+    "skill_id": 7,
     "name": "Social Media Management",
     "type": "phosphor",
     "icon": "ph-instagram-logo"
   },
   {
+    "skill_id": 8,
     "name": "Data Visualization",
     "type": "phosphor",
     "icon": "ph-chart-bar"
   },
   {
+    "skill_id": 9,
     "name": "Data Entry",
     "type": "phosphor",
     "icon": "ph-table"
   },
   {
+    "skill_id": 11,
     "name": "Creative & Critical Thinking",
     "type": "phosphor",
     "icon": "ph-lightbulb"
   },
   {
+    "skill_id": 12,
     "name": "Content Development",
     "type": "phosphor",
     "icon": "ph-puzzle-piece"
