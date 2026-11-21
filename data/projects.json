@@ -247,7 +247,7 @@
       "en": "A web-based point-of-sale application for managing sales transactions, products, and business operations through a modern POS system integrated with Firebase."
     },
     "date": "November 2026",
-    "technologies": "Firebase, PWA, JsDelivery, Fastly, HTML, CSS Variables, Bootstrap, Vanilla JS (ES6+), Google Drive API",
+    "technologies": ["Firebase", "PWA", "JsDelivery", "Fastly", "HTML", "CSS Variables", "Bootstrap", "Vanilla JS (ES6+)", "Google Drive API"],
     "category": "Full Stack | Vibe Coding",
     "image_thumbnail": "../assets/images/kasir-pos.webp",
     "image_modal": "../assets/images/kasir-pos.webp",
@@ -262,7 +262,7 @@
       "en": "A personal web application for recording, managing, and tracking job applications in a centralized dashboard, featuring data visualizations to help organize the job search journey."
     },
     "date": "November 2026",
-    "technologies": "Firebase, PWA, JsDelivery, Fastly, Chart.js, HTML, CSS Variables, Bootstrap, Vanilla JS (ES6+), Google Drive API",
+    "technologies": ["Firebase", "PWA", "JsDelivery", "Fastly", "Chart.js", "HTML", "CSS Variables", "Bootstrap", "Vanilla JS (ES6+)", "Google Drive API"],
     "category": "Full Stack | Vibe Coding",
     "image_thumbnail": "../assets/images/job-tracker.webp",
     "image_modal": "../assets/images/job-tracker.webp",
